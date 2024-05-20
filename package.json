@@ -1,8 +1,9 @@
 {
 	"dependencies": {
-		"@netlify/functions": "^1.6.0"
+		"@netlify/functions": "^1.6.0",
+		"@notionhq/client": "^2.2.15"
 	},
 	"devDependencies": {
-		"@types/node": "^20.1.4"
+		"@types/node": "^20.12.10"
 	}
 }
